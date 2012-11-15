@@ -1,0 +1,91 @@
+Vaarnan Drolia
+#04-153, 26, College Avenue East, Singapore – 138597
+� +65-97381436 • ✉ vaarnan@gmail.com • Github • LinkedIn
+
+I build stuﬀ.
+
+Education
+National University of Singapore
+Bachelor of Computing in Computer Science May, 2014
+○ Full scholarship covering tuition fees, living and accommodation allowances
+○ Among the top 5 students in the Software Engineering course out of 250 students
+St. James’ School
+Higher Secondary Education, 96.25% 1997-2010
+○ 100% in Computer Science for both ’A’ and ’O’ Level Equivalents
+○ 97.2% in Indian ’O’ Level Equivalent (ICSE)
+○ 98 Percentile in SAT 1, 2230/2400 (Critical Reading - 750, Writing - 710, Math - 770)
+
+Work Experience
+National University of Singapore
+Teaching Assistant, Software Engineering August 2012 - December 2012
+○ Lead a class of 17 students and guided 4 teams as they made their ﬁrst real-world application
+○ Initated classroom discussions on several topics related to Software Engineering
+National University of Singapore
+Research Assistant, Data Mining and Visualization May 2012 - July 2012
+○ Developed visualizations of Twitter and Facebook data using multi-level Tag Clouds with d3.js
+○ Deployed the back-end server on Apache Tomcat + Jersey and the Front-End on Heroku in PHP
+○ Integrated the Google Maps API to add location centric information to the data
+
+IBM Singapore
+Software Engineer, Tivoli Division May 2011 - July 2011
+○ Developed a command-line interface for the Tivoli Test Automation Framework using Python and Java
+○ Wrote shell scripts for automated deployment on server platforms such as Windows, Linux, Solaris
+○ Enabled testers to deploy automated tests on remote worker machines with no coding
+○ Converted Jython code into pure CPython code which signiﬁcantly improved execution time and respon-
+siveness by several orders of magnitude
+Project Experience
+CS3217 (Modern Platforms) – intensive software engineering on the iPad oﬀered to only 27 students
+○ KBuddy: iPad Karaoke application with a Ruby on Rails + MongoDB backend
+○ Huﬀ n Puﬀ: iPad ”clone” of Angry Birds with the implementation of a Physics Engine
+CS3216 (Evolving Platforms) - web and cloud application development oﬀered to only 40 students
+○ Kontitude : HTML5 Application to organize conferences
+○ Status Time Capsule : Facebook Application to give a ranking of user status messages
+○ MysteryStory : HTML5 Game to provide innocuous learning about AED machines
+
+
+CS2103 (Software Engineering): Lead a team of 4 to develop - QuickToDo Task Manager in Java
+○ Project inducted into the Hall of Fame for the course
+○ Supported natural language input, automated software updating and Google Calendar Integra-
+tion
+CS1101S (Programming Methodology):
+○ Took the module CS1101S (Programming Methodology) oﬀered only to 60 students in the MIT
+Scheme language and placed 2nd in a Robot Building Competition
+
+Assignment Work
+○ Security Practice - Explored various attacks like buﬀer overﬂows, heap overﬂows, data fuzzing,
+XSS attacks, DoS Attacks, Network and Vulnerability Scanners, ARP Poisoning and IP Spooﬁng
+○ Parallel Computing - Basketball simulation (OpenMPI) and Matrix Multiplication Intel SIMD
+○ Machine Learning - Using Weka to apply Machine Learning algorithms to various problems
+○ Networking - Simple reliable ﬁle transfer protocol over UDP
+
+Project Papers
+○ Enhancing NUSNET using Two-Factor Authentication 2012
+○ Analyzing Low Level Issues Relating to the Security of RFID/NFC Cards 2012
+○ Analysis of the BFS Scheduler in FreeBSD 2011
+
+Tech Skills
+○ Java, Objective-C, Python, C++, C, Scheme, JavaScript, PHP, HTML5, Ruby
+○ Experience with a wide range of operating systems in both Windows and Unix Environments
+
+Awards and Accomplishments
+Competitions 
+○ Tata Consultancy Services IT Wiz Quiz Competition 2009 – National Winner with over 3.5 million
+participants countrywide
+
+Academic 
+○ Medal for Academic Excellence in ISC 2010
+○ Bishop’s Medal for Academic Excellence - Top Student ICSE 2008
+Service 
+○ Principal’s Award for the Most Outstanding Pupil 2009-10
+○ C.V. Shunker Award for Integrity and Service 2009-10
+○ Reverend Canon Basil Manuel Award for the Best Scout 2009-10
+
+Co-Curricular Activities
+National University of Singapore
+○ Resident Assistant 2010-2011
+St. James’ School
+○ School Captain and President of Student’s Council 2009-2010
+○ Troop Leader of Boy Scouts Association 2008-2010
+○ Nature Club President 2009-2010
+
+
