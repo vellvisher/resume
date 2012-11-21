@@ -19,7 +19,7 @@ Work Experience
 National University of Singapore
 Teaching Assistant, Software Engineering August 2012 - December 2012
 • Lead a class of 17 students and guided 4 teams as they made their ﬁrst real-world application
-• Initated classroom discussions on several topics related to Software Engineering
+• Initiated classroom discussions on several topics related to Software Engineering
 National University of Singapore
 Research Assistant, Data Mining and Visualization May 2012 - July 2012
 • Developed visualizations of Twitter and Facebook data using multi-level Tag Clouds with d3.js
