@@ -19,7 +19,7 @@ Higher Secondary Education, 96.25% 1997-2010
 • 98 Percentile in SAT 1, 2230/2400 (Critical Reading - 750, Writing - 710, Math - 770)
 
 Work Experience
-Google Inc.
+Google Inc. Cambridge, Massachusetts
 Software Engineering Intern, Play Magazines May 2013 - August 2013
 • Developed a TV-centric Android client for Play Magazines/Currents from scratch
 • Added the backend services and APIs to support the Android client
