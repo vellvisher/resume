@@ -1,40 +1,39 @@
 Vaarnan Drolia
-250 Kendall Street, #307, Cambridge, Massachusetts – 02142
-☎ +1-415-4849415 • ✉ vaarnan@gmail.com • GitHub • LinkedIn
+25, Prince Georges’ Park Residences, #07-06, Singapore – 118424
+☎ +65-9738-1436 • ✉ vaarnan@gmail.com • GitHub • LinkedIn
 
 
 I build things.
 
 Education
-National University of Singapore
-Bachelor of Computing in Computer Science, 4.51/5.00 May, 2014
-• Full scholarship covering tuition fees, living and accommodation allowances
+National University of Singapore 4.51/5.00 (GPA)
+Bachelor of Computing (Honours) in Computer Science August 2010 - May 2014
 • Dean’s List - Sem 2, 2012-13
 • Top 2% in the Software Engineering course out of 250 students
 • Top Student in the Computer Security course out of 80 students
+• Top 5% in the Parallel and Distributed Algorithms course out of 60 students
+• Singapore Airlines - Neptune Orient Lines Scholar
 St. James’ School
-Higher Secondary Education, 96.25% 1997-2010
+Higher Secondary Education, 96.25% April 1997 - May 2010
 • 100% in Computer Science for both ’A’ and ’O’ Level Equivalents
 • 97.2% in Indian ’O’ Level Equivalent (ICSE)
-• 98 Percentile in SAT 1, 2230/2400 (Critical Reading - 750, Writing - 710, Math - 770)
 
 Work Experience
 Google Inc. Cambridge, Massachusetts
 Software Engineering Intern, Play Magazines May 2013 - August 2013
-• Developed a TV-centric Android client for Play Magazines/Currents from scratch
-• Added the backend services and APIs to support the Android client
-• Became proﬁcient with a range of Google technologies from low-level BUILD ﬁles, ProtocolBuffers to
-high-level frameworks such as Guice and Guava
+• Developed a new Play Magazines/Currents client (for an unreleased Android device)
+• Added APIs to the backend services to support the new Android client
+• Became proﬁcient in a range of Google technologies such as ProtocolBuffers, Guice and Guava
 National University of Singapore
 Teaching Assistant, Software Engineering August 2012 - December 2012
-• Lead a class of 17 students and guided 4 teams as they made their ﬁrst real-world application
+• Led a class of 17 students and guided 4 teams as they made their ﬁrst real-world application
 • Initiated classroom discussions on several topics related to Software Engineering
 National University of Singapore
 Research Assistant, Data Mining and Visualization May 2012 - July 2012
 • Developed visualizations of Twitter and Facebook data using multi-level Tag Clouds with d3.js
 • Deployed the back-end server on Apache Tomcat + Jersey and the Front-End on Heroku in PHP
 • Integrated the Google Maps API to add location centric information to the data
-IBM Singapore
+IBM Corporation Singapore
 Software Engineer, Tivoli Division May 2011 - July 2011
 • Developed a command-line interface for the Tivoli Test Automation Framework using Python and Java
 • Enabled testers to deploy servers and execute automated tests on remote worker machines with no coding
@@ -55,31 +54,30 @@ HTML5 Applications
 iOS Applications
 • KBuddy: iPad Karaoke application with a Ruby on Rails + MongoDB backend
 • Huff n Puff: iPad ”clone” of Angry Birds with the implementation of a Physics Engine
-CS2103 (Software Engineering): Lead a team of 4 to develop - QuickToDo Task Manager in Java
+CS2103 (Software Engineering): Led a team of 4 to develop - QuickToDo Task Manager in Java
 • Project inducted into the Hall of Fame for the course
-• Supported natural language input, automated software updating and Google Calendar Integra-
-tion
+• Developed natural language input, software updating and Google Calendar Integration
 CS1101S (Programming Methodology):
 • Took the module CS1101S (Programming Methodology) offered only to 60 students in the MIT
 Scheme language and placed 2nd in a Robot Building Competition
 
 Course Work
-• Parallel and Distributed Algorithnms - Bayesian consensus, Self-Stabilization, Non-blocking data
+• Parallel and Distributed Algorithms - Bayesian consensus, Self-Stabilization, Non-blocking data
 structures, Mutual Exclusion, ABA Problem
 • Security Practice - Explored various attacks like buffer overflows, heap overflows, data fuzzing,
 XSS attacks, DoS Attacks, Network and Vulnerability Scanners, ARP Poisoning and IP Spooﬁng
 • Parallel Computing - Basketball simulation (OpenMPI) and Matrix Multiplication Intel SIMD
-• Machine Learning - IDF, Naive Bayes, Genetic Algorithms, Artiﬁcial Neural Networks,
-Gradient Descent
+• Machine Learning - Inverse Document Frequency, Naive Bayes, Genetic Algorithms, Artiﬁcial
+Neural Networks, Gradient Descent
 
 Tech Skills
 • Java, Objective-C, Python, C++, C, Scheme, JavaScript, PHP, HTML5, Ruby
 • Experience with a wide range of operating systems in both Windows and Unix Environments
-
 Awards and Accomplishments
 Competitions
 • Tata Consultancy Services IT Wiz Quiz Competition – National Winner with over 3.5 million
 participants countrywide 2009
+
 Academic 
 • Medal for Academic Excellence in ISC 2010
 • Bishop’s Medal for Academic Excellence - Top Student ICSE 2008
@@ -87,8 +85,8 @@ Service
 • Principal’s Award for the Most Outstanding Pupil 2009-10
 • C.V. Shunker Award for Integrity and Service 2009-10
 • Reverend Canon Basil Manuel Award for the Best Scout 2009-10
-
 Co-Curricular Activities
+
 National University of Singapore
 • Resident Assistant 2010-2011
 St. James’ School
