@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #Form feed
 pdflatex Resume.tex
 latex Resume.tex
