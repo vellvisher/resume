@@ -17,7 +17,7 @@ Latex Resume with a script file to easily convert it into Unicode-Text Format
 make
 cp *.pdf /tmp
 git checkout gh-pages
-cp Resume.pdf doc/
-cp Resume_VaarnanDrolia.pdf doc/
+cp /tmp/Resume.pdf doc/
+cp /tmp/Resume_VaarnanDrolia.pdf doc/
 git checkout master
 ```
