@@ -1,6 +1,6 @@
 \documentclass[11pt,a4paper]{moderncv}
-\definecolor{linkcolour}{rgb}{0,0.2,0.6}           % hyperlinks setup
-\AtBeginDocument{\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}}
+\definecolor{bluecolor}{rgb}{0,0.2,0.6}           % hyperlinks setup
+\AtBeginDocument{\hypersetup{colorlinks,breaklinks,urlcolor=bluecolor,linkcolor=bluecolour}}
 \moderncvtheme[blue]{banking}
 \usepackage[utf8]{inputenc}                   % replace by the encoding you are using
 \usepackage[scale=0.8, margin=0.85in]{geometry}
@@ -28,19 +28,31 @@
 \section{Work Experience}
 %\cventry{August 2012 - December 2012}{Teaching Assistant}{National University
 %of Singapore}{country}{dept}{}
-\cventry{July 2016 - Current}{Software Engineer}{Google Inc.}{London, UK and Mountain View, California}{Android Wear}
+\cventry{July 2016 - Current}{Staff Engineering Manager}{Google Inc.}{London, UK and Mountain View, California}{Wear OS by Google}
 {\begin{itemize}
-        \item iOS/iPhone developer for building the interface between Android Wear smartwatches and iPhones
-        \item Bluetooth Low-Energy, Android and iOS Redux stack, battery and power efficiency, shipping apps in China
-        \item Led several projects to launch Bluetooth LE network proxy, Google Pay, Calendar, Contacts and Location sync, monthly app releases, server controlled feature-flags
-        \item Led team to a testing culture and focus on code health to move code coverage with tests from 0\% -> 70\%
+        \item Lead team of 7 software engineers for the phone companion app to the
+smart watch
+        \item  Founding member of team to launch Wear OS for China (now 2nd largest
+market for smartwatches); app successfully deployed globally in all markets
+        \item Key role in ensuring the rebrand of Android Wear to Wear OS, essential to
+highlight that Wear watches are cross-platform and can be used with iPhones
+        \item Developed and launched features to make the watch "smart" - internet to
+the watch (Bluetooth proxy), payments via Google Pay, Calendar, Contacts
+and GPS location
+        \item Technical Architect of componentization for the smartphone app which will
+  push the boundaries of products that watch partners will build in the future
+        \item Process improvements to enable team to release new software updates
+          monthly from once every 6 months
+        \item Led team to a testing culture and focus on product quality, improve testing
+of code from 0% to 90%, 2-week sprints, standups and other agile practices
 \end{itemize}}
 \cventry{November 2014 - July 2016}{Software Engineer}{Google Inc.}{Zürich, Switzerland}{Search and Knowledge}
 {\begin{itemize}
-        \item Led several key improvements to Google Search results powered by data from the Knowledge Graph
-        \item Led infrastructure advancements in Google Knowledge Graph data processing
+        \item Led several key improvements to Google Search results powered by data from the Knowledge Graph, my code still runs with every Google search, and every page scraped by the search engine (aka the Internet)
+        \item Led infrastructure advancements in Google Knowledge Graph data processing to save several days worth of compute resources per job
         \item Tech Lead of Knowledge Understanding Verticals effort and fostered cross-company collaboration with teams in Android, YouTube to launch products for Google IO
-        \item Deployed global scale project for region aware language interpretation, runs on every Google search to resolve ambiguities (eg. ``Boots uk'' vs ``boots'')
+        \item Google Search struggled with regional ambiguities (eg "boots (pharma uk)" vs "boots (shoes)". I deployed global scale project for region aware language interpretation which improved search results and text interpretation for various platforms like Ads, YouTube
+        \item Built a Biasing API for Search's text understanding system which is now widely used for user query understanding in major Google products like Maps, YouTube, Assistant, Shopping, Finance
  \end{itemize}}
 \cventry{May 2013 - August 2013}{Software Engineering Intern}{Google Inc.}{Cambridge, Massachusetts}{Play Magazines}
 {\begin{itemize}
@@ -78,7 +90,6 @@
     \item \textbf{Top 5\%} in the Parallel and Distributed Algorithms course out of 60 students
     \item Singapore Airlines - Neptune Orient Lines Scholar
  \end{itemize}}
-\pagebreak
 \cventry{April 1997 - May 2010}{Higher Secondary Education}{St. James' School}{}{\textit{96.25\%}}
 {\begin{itemize}
             \item \textbf{100\%} in Computer Science for both `A' and `O' Level Equivalents
@@ -131,6 +142,7 @@
 \item Java, Swift, Objective-C, Python, C++, C, Scheme, JavaScript, PHP, HTML5
 \item Experience with a wide range of operating systems in both Windows and Unix Environments
 \end{itemize}
+\pagebreak
 \section{Awards and Accomplishments}
 %\subsection{Competitions}
 \begin{itemize}

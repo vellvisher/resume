@@ -9,7 +9,7 @@ Latex Resume with a script file to easily convert it into Unicode-Text Format
 
 ## Setup
 
-`brew cask install mactex`
+`brew install --cask mactex`
 
 ## Updating
 
@@ -23,3 +23,9 @@ git commit -m $MESSAGE
 git push
 git checkout master
 ```
+
+## TODO
+
++ [ ] Link color is broken
++ [ ] Need to remove things > 10y
++ [ ] Add in more citizenship stuff
