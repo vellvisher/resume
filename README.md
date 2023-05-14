@@ -19,6 +19,7 @@ cp Resume.pdf Resume_VaarnanDrolia.pdf /tmp
 git checkout gh-pages
 cp /tmp/Resume.pdf doc/
 cp /tmp/Resume_VaarnanDrolia.pdf doc/
+git add doc/Resume.pdf doc/Resume_VaarnanDrolia.pdf
 git commit -m $MESSAGE
 git push
 git checkout master
