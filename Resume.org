@@ -1,4 +1,5 @@
 #+TITLE:Vaarnan Drolia
+#+SUBTITLE:I build stuff
 #+AUTHOR:Vaarnan Drolia
 #+OPTIONS: num:nil
 #+OPTIONS: toc:nil
@@ -195,17 +196,17 @@
 :PROPERTIES:
 :CUSTOM_ID: national-university-of-singapore-2
 :END:
-*** Bachelor of Computing (Honours) in Computer Science, August 2010 - May 2014
+*** Bachelor of Computing (Honours), August 2010 - May 2014
 :PROPERTIES:
-:CUSTOM_ID: bachelor-of-computing-honours-in-computer-science-august-2010---may-2014
-:END:
-*** 
-:PROPERTIES:
-:CUSTOM_ID: section
+:CUSTOM_ID: bachelor-of-computing-honours-august-2010---may-2014
 :END:
 *** 4.48/5.00 (GPA)
 :PROPERTIES:
 :CUSTOM_ID: gpa
+:END:
+*** Computer Science
+:PROPERTIES:
+:CUSTOM_ID: computer-science
 :END:
 - Dean's List - Sem 2, 2012-13
 
@@ -228,11 +229,11 @@
 :END:
 *** /96.25%/
 :PROPERTIES:
-:CUSTOM_ID: section-1
+:CUSTOM_ID: section
 :END:
 *** 
 :PROPERTIES:
-:CUSTOM_ID: section-2
+:CUSTOM_ID: section-1
 :END:
 - *100%* in Computer Science for both 'A' and 'O' Level Equivalents
 

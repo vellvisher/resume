@@ -2,6 +2,7 @@
 function Pandoc(doc)
   local header_lines = {
     "#+TITLE:Vaarnan Drolia",
+    "#+SUBTITLE:I build stuff",
     "#+AUTHOR:Vaarnan Drolia",
     "#+OPTIONS: num:nil",
     "#+OPTIONS: toc:nil",

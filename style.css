@@ -175,7 +175,11 @@ body .clearfix {
     display:block;
 }
 h1.title {
-    font-size: 1.8rem;
+    font-size: 2.0rem;
+    color: #1692cc;
+}
+span.subtitle {
+    font-size: 1.5rem;
 }
 #contact-header {
     width: 100%;
