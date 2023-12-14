@@ -1,0 +1,347 @@
+#+TITLE:Vaarnan Drolia
+#+AUTHOR:Vaarnan Drolia
+#+OPTIONS: num:nil
+#+OPTIONS: toc:nil
+#+KEYWORDS: vaarnan,drolia,resume,google,nus,london,zurich,san francisco
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Crimson%20Pro:400,700"/>
+* Work Experience
+:PROPERTIES:
+:CUSTOM_ID: work-experience
+:END:
+** Google Inc.
+:PROPERTIES:
+:CUSTOM_ID: google-inc.
+:END:
+*** Staff Engineering Manager, July 2016 - September 2023
+:PROPERTIES:
+:CUSTOM_ID: staff-engineering-manager-july-2016---september-2023
+:END:
+*** Wear OS by Google
+:PROPERTIES:
+:CUSTOM_ID: wear-os-by-google
+:END:
+*** London, UK and Mountain View, California
+:PROPERTIES:
+:CUSTOM_ID: london-uk-and-mountain-view-california
+:END:
+- Led team of 7 software engineers for the phone companion app to the
+  smart watch
+
+- Successfully pushed back on leadership decision to layoff 5 members
+  (Google 2023 layoffs)
+
+- Founding member of team to launch Wear OS for China (now 2nd largest
+  market for smartwatches); app successfully deployed globally in all
+  markets
+
+- Key role in ensuring the rebrand of Android Wear to Wear OS, essential
+  to highlight that Wear watches are cross-platform and can be used with
+  iPhones
+
+- Developed and launched features to make the watch "smart" - internet
+  to the watch (Bluetooth proxy), payments via Google Pay, Calendar,
+  Contacts and GPS location
+
+- Technical Architect of componentization for the smartphone app which
+  will push the boundaries of products that watch partners will build in
+  the future
+
+- Process improvements to enable team to release new software updates
+  monthly from once every 6 months
+
+- Led team to a testing culture and focus on product quality, improve
+  testing of code from 0% to 90%, 2-week sprints, standups and other
+  agile practices
+
+** Google Inc.
+:PROPERTIES:
+:CUSTOM_ID: google-inc.-1
+:END:
+*** Software Engineer, November 2014 - July 2016
+:PROPERTIES:
+:CUSTOM_ID: software-engineer-november-2014---july-2016
+:END:
+*** Search and Knowledge
+:PROPERTIES:
+:CUSTOM_ID: search-and-knowledge
+:END:
+*** Zürich, Switzerland
+:PROPERTIES:
+:CUSTOM_ID: zürich-switzerland
+:END:
+- Led several key improvements to Google Search results powered by data
+  from the Knowledge Graph, my code still runs with every Google search,
+  and every page scraped by the search engine (aka the Internet)
+
+- Led infrastructure advancements in Google Knowledge Graph data
+  processing to save several days worth of compute resources per job
+
+- Tech Lead of Knowledge Understanding Verticals effort and fostered
+  cross-company collaboration with teams in Android, YouTube to launch
+  products for Google IO
+
+- Google Search struggled with regional ambiguities (eg "boots (pharma
+  uk)" vs "boots (shoes)". I deployed global scale project for region
+  aware language interpretation which improved search results and text
+  interpretation for various platforms like Ads, YouTube
+
+- Built a Biasing API for Search's text understanding system which is
+  now widely used for user query understanding in major Google products
+  like Maps, YouTube, Assistant, Shopping, Finance
+
+** Google Inc.
+:PROPERTIES:
+:CUSTOM_ID: google-inc.-2
+:END:
+*** Software Engineering Intern, May 2013 - August 2013
+:PROPERTIES:
+:CUSTOM_ID: software-engineering-intern-may-2013---august-2013
+:END:
+*** Play Magazines
+:PROPERTIES:
+:CUSTOM_ID: play-magazines
+:END:
+*** Cambridge, Massachusetts
+:PROPERTIES:
+:CUSTOM_ID: cambridge-massachusetts
+:END:
+- Developed a new
+  [[https://play.google.com/store/apps/details?id=com.google.android.apps.magazines&hl=en][Play
+  Newsstand]] client for [[http://www.android.com/tv/][Android TV]]
+
+- Added APIs to the back-end services to support the new Android client
+
+- Became proficient in a range of Google technologies such as
+  ProtocolBuffers, Guice and Guava
+
+** National University of Singapore
+:PROPERTIES:
+:CUSTOM_ID: national-university-of-singapore
+:END:
+*** Teaching Assistant, August 2012 - May 2014
+:PROPERTIES:
+:CUSTOM_ID: teaching-assistant-august-2012---may-2014
+:END:
+*** Software Engineering
+:PROPERTIES:
+:CUSTOM_ID: software-engineering
+:END:
+*** Singapore
+:PROPERTIES:
+:CUSTOM_ID: singapore
+:END:
+- Guided 45 students in 11 teams (over three semesters) as they made
+  their first real-world application
+
+- Initiated classroom discussions on several topics such as code
+  quality, software testing, design patterns
+
+** National University of Singapore
+:PROPERTIES:
+:CUSTOM_ID: national-university-of-singapore-1
+:END:
+*** Research Assistant, May 2012 - July 2012
+:PROPERTIES:
+:CUSTOM_ID: research-assistant-may-2012---july-2012
+:END:
+*** Data Mining and Visualization
+:PROPERTIES:
+:CUSTOM_ID: data-mining-and-visualization
+:END:
+*** Singapore
+:PROPERTIES:
+:CUSTOM_ID: singapore-1
+:END:
+- Developed visualizations of Twitter and Facebook data using
+  multi-level Tag Clouds with [[http://d3js.org/][d3.js]]
+
+- Deployed the back-end server on Apache Tomcat + Jersey and the
+  Front-End on Heroku in PHP
+
+- Integrated the Google Maps API to add location centric information to
+  the data
+
+** IBM Corporation
+:PROPERTIES:
+:CUSTOM_ID: ibm-corporation
+:END:
+*** Software Engineer, May 2011 - July 2011
+:PROPERTIES:
+:CUSTOM_ID: software-engineer-may-2011---july-2011
+:END:
+*** Tivoli Division
+:PROPERTIES:
+:CUSTOM_ID: tivoli-division
+:END:
+*** Singapore
+:PROPERTIES:
+:CUSTOM_ID: singapore-2
+:END:
+- Developed a command-line interface for the Tivoli Test Automation
+  Framework using Python and Java
+
+- Enabled QA to deploy servers and execute tests on remote worker
+  machines without writing any code
+
+- Converted Jython into CPython to improve speed and responsiveness by
+  several orders of magnitude
+
+* Education
+:PROPERTIES:
+:CUSTOM_ID: education
+:END:
+** National University of Singapore
+:PROPERTIES:
+:CUSTOM_ID: national-university-of-singapore-2
+:END:
+*** Bachelor of Computing (Honours) in Computer Science, August 2010 - May 2014
+:PROPERTIES:
+:CUSTOM_ID: bachelor-of-computing-honours-in-computer-science-august-2010---may-2014
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section
+:END:
+*** 4.48/5.00 (GPA)
+:PROPERTIES:
+:CUSTOM_ID: gpa
+:END:
+- Dean's List - Sem 2, 2012-13
+
+- *Top 2%* in the Software Engineering course out of 250 students
+
+- *Top Student* in the Computer Security course out of 80 students
+
+- *Top 5%* in the Parallel and Distributed Algorithms course out of 60
+  students
+
+- Singapore Airlines - Neptune Orient Lines Scholar
+
+** St. James' School
+:PROPERTIES:
+:CUSTOM_ID: st.-james-school
+:END:
+*** Higher Secondary Education, April 1997 - May 2010
+:PROPERTIES:
+:CUSTOM_ID: higher-secondary-education-april-1997---may-2010
+:END:
+*** /96.25%/
+:PROPERTIES:
+:CUSTOM_ID: section-1
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-2
+:END:
+- *100%* in Computer Science for both 'A' and 'O' Level Equivalents
+
+- *97.2%* in Indian 'O' Level Equivalent (ICSE)
+
+* Project Papers
+:PROPERTIES:
+:CUSTOM_ID: project-papers
+:END:
+- [[http://vellvisher.github.io/papers_reports/doc/Threads_vs_Events_Server_Architectures.pdf][Threads
+  vs Events for Server Architectures]] 2013
+
+- [[http://vellvisher.github.io/papers_reports/doc/NUS_2FA_GA.pdf][Enhancing
+  NUSNET using Two-Factor Authentication]] 2012
+
+- [[http://vellvisher.github.io/papers_reports/doc/RFID_NFC.pdf][Analyzing
+  Low Level Issues Relating to the Security of RFID/NFC Cards]] 2012
+
+- [[http://vellvisher.github.io/papers_reports/doc/BFS_FreeBSD.pdf][Analysis
+  of the BFS Scheduler in FreeBSD]] 2011
+
+* Project Experience
+:PROPERTIES:
+:CUSTOM_ID: project-experience
+:END:
+*HTML5 Applications*
+
+- LearnLobe - Digital Whiteboard with video-conferencing for students
+  (using WebRTC)
+
+- Kontitude - Conference organizer to manage event attendees using
+  location and data services
+
+- MysteryStory - Game which promotes innocuous learning of AED
+
+*iOS Applications*
+
+- KBuddy: iPad Karaoke application with a Ruby on Rails + MongoDB
+  backend
+
+- Huff n Puff: iPad "clone" of Angry Birds with the implementation of a
+  Physics Engine
+
+*CS2103 (Software Engineering)*: Led a team of 4 to develop -
+[[http://github.com/vellvisher/quicktodo][QuickToDo]] Task Manager in
+Java
+
+- Project inducted into the Hall of Fame for the course
+
+- Developed natural language input, software updating and Google
+  Calendar Integration
+
+*CS1101S (Programming Methodology)*:
+
+- Offered to only 60 students in *MIT Scheme* language and placed 2nd in
+  Robotics competition
+
+* Course Work
+:PROPERTIES:
+:CUSTOM_ID: course-work
+:END:
+- *Parallel and Distributed Algorithms* - Byzantine consensus,
+  Self-Stabilization, Non-blocking data structures, Mutual Exclusion,
+  ABA Problem, OpenMPI, Matrix multiplication, Intel SIMD
+
+- *Distributed Systems* - Voting and Consensus algorithms, RMI,
+  Multicast, Gossip Protocols, Chord, Distributed Hash Tables, P2P
+  Networks, Vector Clocks, Consistency Models
+
+- *Security* - Explored attacks like buffer overflows, heap overflows,
+  data fuzzing, XSS, CSRF and DoS Attacks, Vulnerability Scanners, ARP
+  Poisoning and IP Spoofing, SQL and Code Injections
+
+- *Machine Learning* - Inverse Document Frequency, Naive Bayes, Genetic
+  Algorithms, Artificial Neural Networks, Gradient Descent
+
+* Tech Skills
+:PROPERTIES:
+:CUSTOM_ID: tech-skills
+:END:
+- Java, Swift, Objective-C, Python, C++, C, Scheme, JavaScript, PHP,
+  HTML5
+
+- Experience with a wide range of operating systems in both Windows and
+  Unix Environments
+
+* Awards and Accomplishments
+:PROPERTIES:
+:CUSTOM_ID: awards-and-accomplishments
+:END:
+- UK Global Talent - Exceptional Talent Visa recipient 2021
+
+- PyCon Asia - LucasFilm Top Student Programmer 2012
+
+- Tata Consultancy Services IT Wiz Quiz - National Winner from 3.5
+  million participants 2009
+
+** Academic and Service
+:PROPERTIES:
+:CUSTOM_ID: academic-and-service
+:END:
+- Medal for Academic Excellence - National high school examination (ISC)
+  2010
+
+- Bishop's Medal - Top Student National secondary school examination
+  (ICSE) 2008
+
+- Principal's Award for the Most Outstanding Pupil 2009-10
+
+- C.V. Shunker Award for Integrity and Service 2009-10
+
+- Reverend Canon Basil Manuel Award for the Best Scout 2009-10

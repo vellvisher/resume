@@ -1,25 +1,632 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Vaarnan Drolia Resume</title>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2023-12-14 Thu 11:36 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Vaarnan Drolia</title>
+<meta name="author" content="Vaarnan Drolia" />
+<meta name="keywords" content="vaarnan,drolia,resume,google,nus,london,zurich,san francisco" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Resume of Vaarnan Drolia">
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Crimson%20Pro:400,700"/>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Vaarnan Drolia</h1>
+<div id="outline-container-work-experience" class="outline-2">
+<h2 id="work-experience">Work Experience</h2>
+<div class="outline-text-2" id="text-work-experience">
+</div>
+<div id="outline-container-google-inc." class="outline-3">
+<h3 id="google-inc.">Google Inc.</h3>
+<div class="outline-text-3" id="text-google-inc.">
+</div>
+<div id="outline-container-staff-engineering-manager-july-2016---september-2023" class="outline-4">
+<h4 id="staff-engineering-manager-july-2016---september-2023">Staff Engineering Manager, July 2016 - September 2023</h4>
+<div class="outline-text-4" id="text-staff-engineering-manager-july-2016---september-2023">
+</div>
+</div>
+<div id="outline-container-wear-os-by-google" class="outline-4">
+<h4 id="wear-os-by-google">Wear OS by Google</h4>
+<div class="outline-text-4" id="text-wear-os-by-google">
+</div>
+</div>
+<div id="outline-container-london-uk-and-mountain-view-california" class="outline-4">
+<h4 id="london-uk-and-mountain-view-california">London, UK and Mountain View, California</h4>
+<div class="outline-text-4" id="text-london-uk-and-mountain-view-california">
+<ul class="org-ul">
+<li>Led team of 7 software engineers for the phone companion app to the
+smart watch</li>
 
-    <style>
-      html, body {
-          height: 100%;
-          margin: 0;
-      }
-      iframe {
-          height: 100%;
-          width: 100%;
-          border: none;
-      }
-    </style>
-  </head>
-  <body>
-    <iframe src="Resume.pdf"></iframe>
-  </body>
+<li>Successfully pushed back on leadership decision to layoff 5 members
+(Google 2023 layoffs)</li>
+
+<li>Founding member of team to launch Wear OS for China (now 2nd largest
+market for smartwatches); app successfully deployed globally in all
+markets</li>
+
+<li>Key role in ensuring the rebrand of Android Wear to Wear OS, essential
+to highlight that Wear watches are cross-platform and can be used with
+iPhones</li>
+
+<li>Developed and launched features to make the watch "smart" - internet
+to the watch (Bluetooth proxy), payments via Google Pay, Calendar,
+Contacts and GPS location</li>
+
+<li>Technical Architect of componentization for the smartphone app which
+will push the boundaries of products that watch partners will build in
+the future</li>
+
+<li>Process improvements to enable team to release new software updates
+monthly from once every 6 months</li>
+
+<li>Led team to a testing culture and focus on product quality, improve
+testing of code from 0% to 90%, 2-week sprints, standups and other
+agile practices</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-google-inc.-1" class="outline-3">
+<h3 id="google-inc.-1">Google Inc.</h3>
+<div class="outline-text-3" id="text-google-inc.-1">
+</div>
+<div id="outline-container-software-engineer-november-2014---july-2016" class="outline-4">
+<h4 id="software-engineer-november-2014---july-2016">Software Engineer, November 2014 - July 2016</h4>
+<div class="outline-text-4" id="text-software-engineer-november-2014---july-2016">
+</div>
+</div>
+<div id="outline-container-search-and-knowledge" class="outline-4">
+<h4 id="search-and-knowledge">Search and Knowledge</h4>
+<div class="outline-text-4" id="text-search-and-knowledge">
+</div>
+</div>
+<div id="outline-container-zürich-switzerland" class="outline-4">
+<h4 id="zürich-switzerland">Zürich, Switzerland</h4>
+<div class="outline-text-4" id="text-zürich-switzerland">
+<ul class="org-ul">
+<li>Led several key improvements to Google Search results powered by data
+from the Knowledge Graph, my code still runs with every Google search,
+and every page scraped by the search engine (aka the Internet)</li>
+
+<li>Led infrastructure advancements in Google Knowledge Graph data
+processing to save several days worth of compute resources per job</li>
+
+<li>Tech Lead of Knowledge Understanding Verticals effort and fostered
+cross-company collaboration with teams in Android, YouTube to launch
+products for Google IO</li>
+
+<li>Google Search struggled with regional ambiguities (eg "boots (pharma
+uk)" vs "boots (shoes)". I deployed global scale project for region
+aware language interpretation which improved search results and text
+interpretation for various platforms like Ads, YouTube</li>
+
+<li>Built a Biasing API for Search's text understanding system which is
+now widely used for user query understanding in major Google products
+like Maps, YouTube, Assistant, Shopping, Finance</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-google-inc.-2" class="outline-3">
+<h3 id="google-inc.-2">Google Inc.</h3>
+<div class="outline-text-3" id="text-google-inc.-2">
+</div>
+<div id="outline-container-software-engineering-intern-may-2013---august-2013" class="outline-4">
+<h4 id="software-engineering-intern-may-2013---august-2013">Software Engineering Intern, May 2013 - August 2013</h4>
+<div class="outline-text-4" id="text-software-engineering-intern-may-2013---august-2013">
+</div>
+</div>
+<div id="outline-container-play-magazines" class="outline-4">
+<h4 id="play-magazines">Play Magazines</h4>
+<div class="outline-text-4" id="text-play-magazines">
+</div>
+</div>
+<div id="outline-container-cambridge-massachusetts" class="outline-4">
+<h4 id="cambridge-massachusetts">Cambridge, Massachusetts</h4>
+<div class="outline-text-4" id="text-cambridge-massachusetts">
+<ul class="org-ul">
+<li>Developed a new
+<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.magazines&amp;hl=en">Play
+Newsstand</a> client for <a href="http://www.android.com/tv/">Android TV</a></li>
+
+<li>Added APIs to the back-end services to support the new Android client</li>
+
+<li>Became proficient in a range of Google technologies such as
+ProtocolBuffers, Guice and Guava</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-national-university-of-singapore" class="outline-3">
+<h3 id="national-university-of-singapore">National University of Singapore</h3>
+<div class="outline-text-3" id="text-national-university-of-singapore">
+</div>
+<div id="outline-container-teaching-assistant-august-2012---may-2014" class="outline-4">
+<h4 id="teaching-assistant-august-2012---may-2014">Teaching Assistant, August 2012 - May 2014</h4>
+<div class="outline-text-4" id="text-teaching-assistant-august-2012---may-2014">
+</div>
+</div>
+<div id="outline-container-software-engineering" class="outline-4">
+<h4 id="software-engineering">Software Engineering</h4>
+<div class="outline-text-4" id="text-software-engineering">
+</div>
+</div>
+<div id="outline-container-singapore" class="outline-4">
+<h4 id="singapore">Singapore</h4>
+<div class="outline-text-4" id="text-singapore">
+<ul class="org-ul">
+<li>Guided 45 students in 11 teams (over three semesters) as they made
+their first real-world application</li>
+
+<li>Initiated classroom discussions on several topics such as code
+quality, software testing, design patterns</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-national-university-of-singapore-1" class="outline-3">
+<h3 id="national-university-of-singapore-1">National University of Singapore</h3>
+<div class="outline-text-3" id="text-national-university-of-singapore-1">
+</div>
+<div id="outline-container-research-assistant-may-2012---july-2012" class="outline-4">
+<h4 id="research-assistant-may-2012---july-2012">Research Assistant, May 2012 - July 2012</h4>
+<div class="outline-text-4" id="text-research-assistant-may-2012---july-2012">
+</div>
+</div>
+<div id="outline-container-data-mining-and-visualization" class="outline-4">
+<h4 id="data-mining-and-visualization">Data Mining and Visualization</h4>
+<div class="outline-text-4" id="text-data-mining-and-visualization">
+</div>
+</div>
+<div id="outline-container-singapore-1" class="outline-4">
+<h4 id="singapore-1">Singapore</h4>
+<div class="outline-text-4" id="text-singapore-1">
+<ul class="org-ul">
+<li>Developed visualizations of Twitter and Facebook data using
+multi-level Tag Clouds with <a href="http://d3js.org/">d3.js</a></li>
+
+<li>Deployed the back-end server on Apache Tomcat + Jersey and the
+Front-End on Heroku in PHP</li>
+
+<li>Integrated the Google Maps API to add location centric information to
+the data</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-ibm-corporation" class="outline-3">
+<h3 id="ibm-corporation">IBM Corporation</h3>
+<div class="outline-text-3" id="text-ibm-corporation">
+</div>
+<div id="outline-container-software-engineer-may-2011---july-2011" class="outline-4">
+<h4 id="software-engineer-may-2011---july-2011">Software Engineer, May 2011 - July 2011</h4>
+<div class="outline-text-4" id="text-software-engineer-may-2011---july-2011">
+</div>
+</div>
+<div id="outline-container-tivoli-division" class="outline-4">
+<h4 id="tivoli-division">Tivoli Division</h4>
+<div class="outline-text-4" id="text-tivoli-division">
+</div>
+</div>
+<div id="outline-container-singapore-2" class="outline-4">
+<h4 id="singapore-2">Singapore</h4>
+<div class="outline-text-4" id="text-singapore-2">
+<ul class="org-ul">
+<li>Developed a command-line interface for the Tivoli Test Automation
+Framework using Python and Java</li>
+
+<li>Enabled QA to deploy servers and execute tests on remote worker
+machines without writing any code</li>
+
+<li>Converted Jython into CPython to improve speed and responsiveness by
+several orders of magnitude</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-education" class="outline-2">
+<h2 id="education">Education</h2>
+<div class="outline-text-2" id="text-education">
+</div>
+<div id="outline-container-national-university-of-singapore-2" class="outline-3">
+<h3 id="national-university-of-singapore-2">National University of Singapore</h3>
+<div class="outline-text-3" id="text-national-university-of-singapore-2">
+</div>
+<div id="outline-container-bachelor-of-computing-honours-in-computer-science-august-2010---may-2014" class="outline-4">
+<h4 id="bachelor-of-computing-honours-in-computer-science-august-2010---may-2014">Bachelor of Computing (Honours) in Computer Science, August 2010 - May 2014</h4>
+<div class="outline-text-4" id="text-bachelor-of-computing-honours-in-computer-science-august-2010---may-2014">
+</div>
+</div>
+<div id="outline-container-section" class="outline-4">
+<h4 id="section"></h4>
+<div class="outline-text-4" id="text-section">
+</div>
+</div>
+<div id="outline-container-gpa" class="outline-4">
+<h4 id="gpa">4.48/5.00 (GPA)</h4>
+<div class="outline-text-4" id="text-gpa">
+<ul class="org-ul">
+<li>Dean's List - Sem 2, 2012-13</li>
+
+<li><b>Top 2%</b> in the Software Engineering course out of 250 students</li>
+
+<li><b>Top Student</b> in the Computer Security course out of 80 students</li>
+
+<li><b>Top 5%</b> in the Parallel and Distributed Algorithms course out of 60
+students</li>
+
+<li>Singapore Airlines - Neptune Orient Lines Scholar</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-st.-james-school" class="outline-3">
+<h3 id="st.-james-school">St. James' School</h3>
+<div class="outline-text-3" id="text-st.-james-school">
+</div>
+<div id="outline-container-higher-secondary-education-april-1997---may-2010" class="outline-4">
+<h4 id="higher-secondary-education-april-1997---may-2010">Higher Secondary Education, April 1997 - May 2010</h4>
+<div class="outline-text-4" id="text-higher-secondary-education-april-1997---may-2010">
+</div>
+</div>
+<div id="outline-container-section-1" class="outline-4">
+<h4 id="section-1"><i>96.25%</i></h4>
+<div class="outline-text-4" id="text-section-1">
+</div>
+</div>
+<div id="outline-container-section-2" class="outline-4">
+<h4 id="section-2"></h4>
+<div class="outline-text-4" id="text-section-2">
+<ul class="org-ul">
+<li><b>100%</b> in Computer Science for both 'A' and 'O' Level Equivalents</li>
+
+<li><b>97.2%</b> in Indian 'O' Level Equivalent (ICSE)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-project-papers" class="outline-2">
+<h2 id="project-papers">Project Papers</h2>
+<div class="outline-text-2" id="text-project-papers">
+<ul class="org-ul">
+<li><a href="http://vellvisher.github.io/papers_reports/doc/Threads_vs_Events_Server_Architectures.pdf">Threads
+vs Events for Server Architectures</a> 2013</li>
+
+<li><a href="http://vellvisher.github.io/papers_reports/doc/NUS_2FA_GA.pdf">Enhancing
+NUSNET using Two-Factor Authentication</a> 2012</li>
+
+<li><a href="http://vellvisher.github.io/papers_reports/doc/RFID_NFC.pdf">Analyzing
+Low Level Issues Relating to the Security of RFID/NFC Cards</a> 2012</li>
+
+<li><a href="http://vellvisher.github.io/papers_reports/doc/BFS_FreeBSD.pdf">Analysis
+of the BFS Scheduler in FreeBSD</a> 2011</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-project-experience" class="outline-2">
+<h2 id="project-experience">Project Experience</h2>
+<div class="outline-text-2" id="text-project-experience">
+<p>
+<b>HTML5 Applications</b>
+</p>
+
+<ul class="org-ul">
+<li>LearnLobe - Digital Whiteboard with video-conferencing for students
+(using WebRTC)</li>
+
+<li>Kontitude - Conference organizer to manage event attendees using
+location and data services</li>
+
+<li>MysteryStory - Game which promotes innocuous learning of AED</li>
+</ul>
+
+<p>
+<b>iOS Applications</b>
+</p>
+
+<ul class="org-ul">
+<li>KBuddy: iPad Karaoke application with a Ruby on Rails + MongoDB
+backend</li>
+
+<li>Huff n Puff: iPad "clone" of Angry Birds with the implementation of a
+Physics Engine</li>
+</ul>
+
+<p>
+<b>CS2103 (Software Engineering)</b>: Led a team of 4 to develop -
+<a href="http://github.com/vellvisher/quicktodo">QuickToDo</a> Task Manager in
+Java
+</p>
+
+<ul class="org-ul">
+<li>Project inducted into the Hall of Fame for the course</li>
+
+<li>Developed natural language input, software updating and Google
+Calendar Integration</li>
+</ul>
+
+<p>
+<b>CS1101S (Programming Methodology)</b>:
+</p>
+
+<ul class="org-ul">
+<li>Offered to only 60 students in <b>MIT Scheme</b> language and placed 2nd in
+Robotics competition</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-course-work" class="outline-2">
+<h2 id="course-work">Course Work</h2>
+<div class="outline-text-2" id="text-course-work">
+<ul class="org-ul">
+<li><b>Parallel and Distributed Algorithms</b> - Byzantine consensus,
+Self-Stabilization, Non-blocking data structures, Mutual Exclusion,
+ABA Problem, OpenMPI, Matrix multiplication, Intel SIMD</li>
+
+<li><b>Distributed Systems</b> - Voting and Consensus algorithms, RMI,
+Multicast, Gossip Protocols, Chord, Distributed Hash Tables, P2P
+Networks, Vector Clocks, Consistency Models</li>
+
+<li><b>Security</b> - Explored attacks like buffer overflows, heap overflows,
+data fuzzing, XSS, CSRF and DoS Attacks, Vulnerability Scanners, ARP
+Poisoning and IP Spoofing, SQL and Code Injections</li>
+
+<li><b>Machine Learning</b> - Inverse Document Frequency, Naive Bayes, Genetic
+Algorithms, Artificial Neural Networks, Gradient Descent</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-tech-skills" class="outline-2">
+<h2 id="tech-skills">Tech Skills</h2>
+<div class="outline-text-2" id="text-tech-skills">
+<ul class="org-ul">
+<li>Java, Swift, Objective-C, Python, C++, C, Scheme, JavaScript, PHP,
+HTML5</li>
+
+<li>Experience with a wide range of operating systems in both Windows and
+Unix Environments</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-awards-and-accomplishments" class="outline-2">
+<h2 id="awards-and-accomplishments">Awards and Accomplishments</h2>
+<div class="outline-text-2" id="text-awards-and-accomplishments">
+<ul class="org-ul">
+<li>UK Global Talent - Exceptional Talent Visa recipient 2021</li>
+
+<li>PyCon Asia - LucasFilm Top Student Programmer 2012</li>
+
+<li>Tata Consultancy Services IT Wiz Quiz - National Winner from 3.5
+million participants 2009</li>
+</ul>
+</div>
+
+<div id="outline-container-academic-and-service" class="outline-3">
+<h3 id="academic-and-service">Academic and Service</h3>
+<div class="outline-text-3" id="text-academic-and-service">
+<ul class="org-ul">
+<li>Medal for Academic Excellence - National high school examination (ISC)
+2010</li>
+
+<li>Bishop's Medal - Top Student National secondary school examination
+(ICSE) 2008</li>
+
+<li>Principal's Award for the Most Outstanding Pupil 2009-10</li>
+
+<li>C.V. Shunker Award for Integrity and Service 2009-10</li>
+
+<li>Reverend Canon Basil Manuel Award for the Best Scout 2009-10</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Vaarnan Drolia</p>
+<p class="date">Created: 2023-12-14 Thu 11:36</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
 </html>
