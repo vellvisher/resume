@@ -40,6 +40,12 @@ git checkout master
 
 ## TODO
 
++ [ ] add command to export org to script
+
+```bash
+cat Resume.tex | sed 's/^\\cventry{\(.*\)}{\(.*\)}{\(.*\)}{\(.*\)}{\(.*\)}$/\\subsection{\3}\n\\subsubsection{\2, \1}\n\\subsubsection{\5}\n\\subsubsection{\4}/' | pandoc -f latex -t org --lua-filter prepend-header.lua -o Resume.org
+```
+
 + [ ] Link color is broken
 + [ ] Need to remove things > 10y
 + [ ] Add in more citizenship stuff
