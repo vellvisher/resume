@@ -9,6 +9,19 @@ Latex Resume with a script file to easily convert it into Unicode-Text Format
 
 ## Setup
 
+## Basic Tex
+
+1. Install [Basic Tex](https://www.tug.org/mactex/morepackages.html).
+1. Setup the `moderncv package`
+   1. `tlmgr init-usertree --usertree $HOME/texmf`
+   1. `tlmgr install moderncv`
+   1. Contine adding more packages that fail
+   1. `pplr7t` -> `tlmgr install palatino`
+   1. `zplmr7` -> `tlmgr install mathpazo`
+
+
+### Deprecated workflow (uses over 14.6GB)
+
 `brew install --cask mactex`
 
 ## Updating
